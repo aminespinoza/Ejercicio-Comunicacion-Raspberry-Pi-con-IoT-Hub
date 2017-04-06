@@ -10,6 +10,24 @@ La funcionalidad que utilzaremos del IoT Hub será:
     - Envío de información desde el dispositivo a la nube
     - Envío de información desde la nube al dispositivo
 
+## El material ##
+
+El material utilizado será el siguiente:
+
+- Una Raspberry Pi (puede ser modelo 2 o 3).
+
+- Un [FEZHAT Shield](https://www.ghielectronics.com/catalog/product/500)  de GHI Electronics.
+Todos los accesorios requeridos para trabajar como cable de corriente eléctrica, mouse, cable de red o tarjeta de conexión inalámbrica.
+
+En cuanto a software, el siguiente está considerado.
+
+- [Visual Studio 2017](https://www.visualstudio.com/es/downloads/) con el SDK para desarrollo de Aplicaciones Universales.
+
+- Una suscripción activa de [Microsoft Azure](https://azure.microsoft.com/es-mx/).
+
+- Es deseable instalar la aplicación de [Windows IoT Remote Client](https://www.microsoft.com/es-mx/store/p/windows-iot-remote-client/9nblggh5mnxz) de la tienda de aplicaciones de Windows 10.
+
+
 ## La configuración ##
 
 Entra al portal de Azure y en la opción de agregar nuevos recursos selecciona la categoría de Internet of things y ahí selecciona IoT Hub.
