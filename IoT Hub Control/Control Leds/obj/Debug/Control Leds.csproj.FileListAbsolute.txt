@@ -1,0 +1,231 @@
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Control Leds.exe.config
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Control Leds.exe
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Control Leds.pdb
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Buffers.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Codecs.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Codecs.Mqtt.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Common.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Handlers.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Transport.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Azure.Devices.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Mono.Security.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\PCLCrypto.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\System.Spatial.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\System.Web.Http.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Validation.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Buffers.xml
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Codecs.xml
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Codecs.Mqtt.xml
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Common.xml
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Handlers.xml
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Transport.xml
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Azure.Amqp.xml
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Azure.Devices.xml
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Newtonsoft.Json.xml
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\PCLCrypto.xml
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\System.Spatial.xml
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\System.Web.Http.xml
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Validation.xml
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\obj\Debug\Control Leds.exe
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\obj\Debug\Control Leds.pdb
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\obj\Debug\Control Leds.csprojResolveAssemblyReference.cache
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Colorful.Console.dll
+C:\Users\amines\documents\visual studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Colorful.Console.xml
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Control Leds.exe.config
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\obj\Debug\Control Leds.exe
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\obj\Debug\Control Leds.pdb
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Control Leds.exe
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Control Leds.pdb
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Colorful.Console.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Buffers.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Codecs.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Codecs.Mqtt.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Common.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Handlers.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Transport.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Azure.Devices.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Mono.Security.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\PCLCrypto.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\System.Spatial.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\System.Web.Http.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Validation.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Colorful.Console.xml
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Buffers.xml
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Codecs.xml
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Codecs.Mqtt.xml
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Common.xml
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Handlers.xml
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Transport.xml
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Azure.Amqp.xml
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Azure.Devices.xml
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Newtonsoft.Json.xml
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\PCLCrypto.xml
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\System.Spatial.xml
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\System.Web.Http.xml
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Validation.xml
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\amine\Documents\Visual Studio 2015\Projects\IoT Hub Control\Control Leds\obj\Debug\Control Leds.csprojResolveAssemblyReference.cache
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\Control Leds.exe.config
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\Control Leds.exe
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\Control Leds.pdb
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\Colorful.Console.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Buffers.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Codecs.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Codecs.Mqtt.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Common.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Handlers.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Transport.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Azure.Devices.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\Mono.Security.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\PCLCrypto.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\System.Spatial.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\System.Web.Http.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\Validation.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\Colorful.Console.xml
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Buffers.xml
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Codecs.xml
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Codecs.Mqtt.xml
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Common.xml
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Handlers.xml
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Transport.xml
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Azure.Amqp.xml
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Azure.Devices.xml
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\PCLCrypto.xml
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\System.Spatial.xml
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\System.Web.Http.xml
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\Validation.xml
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\obj\Debug\Control Leds.csprojResolveAssemblyReference.cache
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\obj\Debug\Control Leds.exe
+C:\Users\Amin Espinoza\Documents\Visual Studio 2017\Projects\IoT Hub Control\Control Leds\obj\Debug\Control Leds.pdb
