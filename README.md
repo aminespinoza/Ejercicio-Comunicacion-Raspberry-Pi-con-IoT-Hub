@@ -1,4 +1,4 @@
-# Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub
+# Ejercicio comunicación Raspberry Pi con IoT Hub
 
 ## Objetivo ##
 
