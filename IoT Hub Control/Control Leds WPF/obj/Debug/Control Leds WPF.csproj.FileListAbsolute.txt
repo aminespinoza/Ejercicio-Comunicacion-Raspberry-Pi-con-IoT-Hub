@@ -1,0 +1,39 @@
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\bin\Debug\Control Leds WPF.exe.config
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\bin\Debug\Control Leds WPF.exe
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\bin\Debug\Control Leds WPF.pdb
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\bin\Debug\Microsoft.Azure.Devices.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\bin\Debug\Microsoft.Azure.Devices.Shared.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\bin\Debug\PCLCrypto.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\bin\Debug\PInvoke.BCrypt.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\bin\Debug\PInvoke.Kernel32.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\bin\Debug\PInvoke.NCrypt.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\bin\Debug\PInvoke.Windows.Core.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\bin\Debug\System.Web.Http.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\bin\Debug\Validation.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\bin\Debug\Microsoft.Azure.Amqp.xml
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\bin\Debug\Microsoft.Azure.Devices.xml
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\bin\Debug\PCLCrypto.xml
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\bin\Debug\PInvoke.BCrypt.xml
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\bin\Debug\PInvoke.Kernel32.xml
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\bin\Debug\PInvoke.NCrypt.xml
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\bin\Debug\PInvoke.Windows.Core.xml
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\bin\Debug\System.Web.Http.xml
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\bin\Debug\Validation.xml
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\obj\Debug\Control Leds WPF.csprojResolveAssemblyReference.cache
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\obj\Debug\App.g.cs
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\obj\Debug\Control Leds WPF_MarkupCompile.cache
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\obj\Debug\Control Leds WPF_MarkupCompile.lref
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\obj\Debug\MainWindow.baml
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\obj\Debug\Control Leds WPF.g.resources
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\obj\Debug\Control_Leds_WPF.Properties.Resources.resources
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\obj\Debug\Control Leds WPF.csproj.GenerateResource.Cache
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\obj\Debug\Control Leds WPF.exe
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds WPF\obj\Debug\Control Leds WPF.pdb

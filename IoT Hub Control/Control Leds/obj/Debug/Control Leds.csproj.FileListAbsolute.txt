@@ -1,0 +1,75 @@
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\Control Leds.exe.config
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\Control Leds.exe
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\Control Leds.pdb
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\Colorful.Console.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Buffers.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Codecs.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Codecs.Mqtt.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Common.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Handlers.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Transport.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Azure.Devices.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\Mono.Security.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\PCLCrypto.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\System.Spatial.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\System.Web.Http.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\Validation.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\Colorful.Console.xml
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Buffers.xml
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Codecs.xml
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Codecs.Mqtt.xml
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Common.xml
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Handlers.xml
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\DotNetty.Transport.xml
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Azure.Amqp.xml
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Azure.Devices.xml
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\PCLCrypto.xml
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\System.Spatial.xml
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\System.Web.Http.xml
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\Validation.xml
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\obj\Debug\Control Leds.csprojResolveAssemblyReference.cache
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\obj\Debug\Control Leds.exe
+C:\Users\Amin Espinoza\Documents\GitHub\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\IoT Hub Control\Control Leds\obj\Debug\Control Leds.pdb

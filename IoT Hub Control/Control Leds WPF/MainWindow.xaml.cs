@@ -11,7 +11,7 @@ namespace Control_Leds_WPF
     public partial class MainWindow : Window
     {
         static ServiceClient serviceClient;
-        static string connectionString = "HostName=comunicationhub.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=OA5sFyiMLehhnlPmLWs7BTET6S9bMpLAqRWH5zj0Brk=";
+        static string connectionString = "HostName=hubcasatulancingo.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=kfSWlvhPZMFvWPs+oObC3bFAB5rlTUQ800Xo3lHGBoY=";
 
         static string connectionEventString = "HostName=comunicationhub.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=OA5sFyiMLehhnlPmLWs7BTET6S9bMpLAqRWH5zj0Brk=";
         static string iotHubD2cEndpoint = "messages/events";

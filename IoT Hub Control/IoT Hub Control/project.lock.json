@@ -16787,14 +16787,14 @@
     "UAP,Version=v10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\amine\\.nuget\\packages\\": {}
+    "C:\\Users\\Amin Espinoza\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\amine\\Documents\\Visual Studio 2015\\Projects\\IoT Hub Control\\IoT Hub Control\\IoT Hub Control.csproj",
+      "projectUniqueName": "C:\\Users\\Amin Espinoza\\Documents\\GitHub\\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\\IoT Hub Control\\IoT Hub Control\\IoT Hub Control.csproj",
       "projectName": "IoT Hub Control",
-      "projectPath": "C:\\Users\\amine\\Documents\\Visual Studio 2015\\Projects\\IoT Hub Control\\IoT Hub Control\\IoT Hub Control.csproj",
-      "projectJsonPath": "C:\\Users\\amine\\Documents\\Visual Studio 2015\\Projects\\IoT Hub Control\\IoT Hub Control\\project.json",
+      "projectPath": "C:\\Users\\Amin Espinoza\\Documents\\GitHub\\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\\IoT Hub Control\\IoT Hub Control\\IoT Hub Control.csproj",
+      "projectJsonPath": "C:\\Users\\Amin Espinoza\\Documents\\GitHub\\Ejercicio-Comunicacion-Raspberry-Pi-con-IoT-Hub\\IoT Hub Control\\IoT Hub Control\\project.json",
       "projectStyle": "ProjectJson"
     },
     "dependencies": {
